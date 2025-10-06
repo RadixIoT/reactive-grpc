@@ -71,7 +71,7 @@
 
         <!-- Dependency Versions -->
         <reactive.streams.version>1.0.4</reactive.streams.version>
-        <grpc.version>1.54.0</grpc.version>
+        <grpc.version>1.54.2</grpc.version>
         <protoc.version>3.22.2</protoc.version> <!-- Same version as grpc-proto -->
         <jprotoc.version>1.2.2</jprotoc.version>
 
